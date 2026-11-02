@@ -1,0 +1,122 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.navbar{
+    height: 56px;
+    margin-left: 16px;
+   
+     padding-top: 10px;
+     margin-right: 20px;
+    display: flex;
+    align-items: center;
+
+}
+
+.menue{
+
+    color: white;
+}
+
+.logo{
+    margin-left: 20px;
+    justify-content: center;
+}
+.searchbar{
+    margin-left: 200px;
+}
+.searchbar input{
+    width: 400px;
+    padding: 12px 23px;
+    border: 2px solid gray;
+    border-radius: 25px;
+
+}
+.mic{
+    padding: 12px 10px;
+   
+
+}
+.proflepicture{
+    margin-left: 650px;
+  
+    display: flex;
+}
+
+.topicbar{
+    display: flex;
+    align-items: center;
+    height: 40px;
+    background-color: rgb(255, 254, 253);
+  
+}
+.all{
+    margin-left: 50px;
+    padding: 3px;
+}
+
+.all button{
+    border: 1px solid grey;
+    font-size: 18px;
+    border-radius: 10%;
+    padding: 5px;
+
+}
+.music button{
+    margin-left: 20px;
+    border: 1px solid grey;
+    font-size: 18px;
+    border-radius: 12.5%;
+    padding: 5px;
+}
+
+.c1 button{
+     margin-left: 20px;
+    border: 1px solid grey;
+    font-size: 15px;
+    border-radius:12.5%;
+    padding: 10px;
+    background-color: #f1f1f1;
+   
+
+}
+.content{
+    
+    display: flex;
+  
+     
+}
+
+.video{
+    height: 280px;
+    width: 362.2px;
+    border: 2px solid black;
+    margin-left: 15px;
+   
+    padding: 2px;
+    
+  
+    
+}
+.video img{
+    border-radius: 25px;
+
+}
+.channellogo{
+    
+    padding: 10px 5px;
+    align-items: center;
+    
+    font-size: 25px;
+   
+}
+.channellogo b{
+    
+   
+    width: 30px;
+    height: 30px;
+    
+
+    
+}
